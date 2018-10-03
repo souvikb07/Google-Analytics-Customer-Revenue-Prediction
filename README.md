@@ -29,4 +29,4 @@ The example code is in Python ([version 3.6.6](https://www.python.org/downloads/
 ## References & Citations
 
 1. Data provided by:
-    * [Google Analytics](https://www.kaggle.com/c/ga-customer-revenue-prediction/data)
+    * [GStore](https://www.kaggle.com/c/ga-customer-revenue-prediction/data)
